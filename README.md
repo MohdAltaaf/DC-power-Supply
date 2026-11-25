@@ -29,7 +29,7 @@ First get all the components mentioned in the BOM :
 Not very expensive tbf.
 
 Now Follow the circuit diagram provided:
-
+<img width="1315" height="415" alt="image" src="https://github.com/user-attachments/assets/56e88efd-a417-4846-a4be-5a6e820ff1d0" />
 
 Hook up the transformer to the circuit and power it on and it should be good to go!
 
